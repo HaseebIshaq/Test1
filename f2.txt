@@ -1,2 +1,3 @@
 This is second file.
-This is second line for pull request.
+This is second line.
+This is for pull request.
